@@ -13,5 +13,9 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about my life
 - 📫 How to reach me: @nitinkumar2023 in Linkedin
 - 😄 Pronouns: He
-![Visitor Count](https://profile-counter.glitch.me/i-pix/count.svg)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/i-pix/count.svg" />
+</p>
 
