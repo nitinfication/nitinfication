@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 <p align="center"> 
-  <img align="center" alt="GIF" src="Atsumu Miya Haikyuu GIF - AtsumuMiya Haikyuu Anime - Discover & Share GIFs.gif">
+  <img align="center" alt="GIF" src="Atsumu Miya Haikyuu GIF - AtsumuMiya Haikyuu Anime - Discover & Share GIFs.gif"><br>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/krypnyx/count.svg" />
 </p>
