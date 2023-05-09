@@ -25,4 +25,4 @@ Here are some ideas to get you started:-->
 - Practising on <a href="https://www.codeforces.com/profile/kryp/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/krypnotebook/">LinkedIn</a> 😇
 
-![snake gif](https://github.com/krypnyx/Actions/blob/output/github-contribution-grid-snake.svg)
+
