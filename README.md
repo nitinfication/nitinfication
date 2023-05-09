@@ -19,3 +19,10 @@ Here are some ideas to get you started:-->
   <br>
   <br>
 </p>
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/krypnotebook/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Struggling on <a href="https://www.leetcode.com/inarizaki/">LeetCode</a> 😍
+- Practising on <a href="https://www.codeforces.com/profile/kryp/">Codeforces</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/krypnotebook/">LinkedIn</a> 😇
+
+![snake gif](https://github.com/krypnyx/Actions/blob/output/github-contribution-grid-snake.svg)
